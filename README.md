@@ -5,9 +5,10 @@
 - 📫 Entre em contato comigo pelo email: jherreiragarnica@gmail.com
 
 <div>
-  <a href="https://github.com/joaoghg"></a>
-  <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=joaoghg&show_icons=true&theme=tokyonight" />
-  <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoghg&langs_count=5&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/joaoghg">
+    <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=joaoghg&show_icons=true&theme=tokyonight" />
+    <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoghg&langs_count=8&layout=compact&theme=tokyonight" />
+  </a>
 </div>
 <div style="display: inline-block"><br>
   <img align="center" alt="PHP" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
