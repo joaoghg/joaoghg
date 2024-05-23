@@ -22,6 +22,6 @@
 ##
 
 <div>
-  <a href="https://www.instagram.com/joao_garnica/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-herreira-garnica-2043b9143/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://www.instagram.com/joao_garnica/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-herreira-garnica-2043b9143/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
